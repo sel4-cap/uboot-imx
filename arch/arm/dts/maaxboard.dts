@@ -273,7 +273,7 @@
 
 &hdmi {
 	compatible = "fsl,imx8mq-hdmi";
-	status = "disabled";
+	status = "okay";
 
 	display-timings {
 		native-mode = <&timing1>;
